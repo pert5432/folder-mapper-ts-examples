@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
+    "start": "npx ts-node ./src/index.ts",
     "map:assets": "npx ts-node ./src/map-assets-folder.ts",
     "postmap:assets": "yarn format",
     "format": "prettier --write \"**/*.ts\""
