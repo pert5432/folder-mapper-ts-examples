@@ -1,0 +1,16 @@
+{
+  "name": "customization-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "map:assets": "ts-node ./src/map-assets-folder.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "folder-mapper-ts": "^1.0.2"
+  }
+}
