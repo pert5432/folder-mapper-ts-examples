@@ -982,9 +982,9 @@ flatted@^3.2.9:
   integrity sha512-36yxDn5H7OFZQla0/jFJmbIKTdZAQHngCedGxiMmpNfEZM0sdEeT+WczLQrjK6D7o2aiyLYDnkw0R3JK0Qv1RQ==
 
 folder-mapper-ts@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/folder-mapper-ts/-/folder-mapper-ts-1.0.1.tgz#c884c25766978125ae78a22a239f607b1d64731b"
-  integrity sha512-g+8RPTO2ed1LkbbdzEZJRvnM4oppcPNpYNm63JLIdfxysW1vSox2F6jeBJ7tm9SzeCFQYv66c4mgQSXHaMVRYA==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/folder-mapper-ts/-/folder-mapper-ts-1.0.2.tgz#74812e35a98e0c2efb59a6e074cb564da18c7929"
+  integrity sha512-HYljPsnf5VIYTpK2MC1xjVZdbEgIHEqvj8SQBx5LKEA0qcOC/P8pC3ArxZHfJUwFf+dPv7Ok+f2SxaII5mDR7w==
 
 for-each@^0.3.3:
   version "0.3.3"
@@ -1972,6 +1972,7 @@ streamsearch@^1.1.0:
   integrity sha512-Mcc5wHehp9aXz1ax6bZUyY5afg9u2rv5cqQI3mRrYkGC8rW2hM02jWuwjtL++LS5qinSyhj2QfLyNsuc+VsExg==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==

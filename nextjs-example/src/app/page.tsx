@@ -10,15 +10,13 @@ export default function Home() {
       </span>
       <div className={styles.container}>
         <Image
-          // NextJS requires a leading slash on relative paths
-          src={`/${MAP.images["bus_1.gif"]}`}
+          src={MAP.images["bus_1.gif"]}
           alt={"bus"}
           width={300}
           height={300}
         />
         <Image
-          // NextJS requires a leading slash on relative paths
-          src={`/${MAP.images["bus_2.gif"]}`}
+          src={MAP.images["bus_2.gif"]}
           alt={"bus"}
           width={300}
           height={300}

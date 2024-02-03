@@ -9,6 +9,9 @@ const main = async () => {
     outputPath: path.join(__dirname, "app", "public-map.ts"),
     // Absolute path to public folder
     filePathsRelativeTo: path.join(__dirname, "..", "public"),
+
+    // NextJS requires a leading slash on relative paths to the public folder
+    leadingSlashFilePaths: true,
   });
 };
 
