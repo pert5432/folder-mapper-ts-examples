@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "map:public": "npx ts-node ./src/map-public-folder.ts"
+    "map:public": "ts-node ./src/map-public-folder.ts"
   },
   "dependencies": {
     "folder-mapper-ts": "^1.0.1",
